@@ -1,7 +1,7 @@
 ## Hi there 👋
 <!--Cabeçalho<!--
-#TITULO - 1
-##TITULO -2
+#TITULO 1
+##TITULO 2
 <!--
 **eliassbernard/eliassbernard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
